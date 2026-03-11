@@ -1,0 +1,5 @@
+include:
+  - board: seeeduino_xiao_ble
+    shield: pinkeybd_left
+  - board: seeeduino_xiao_ble
+    shield: pinkeybd_right

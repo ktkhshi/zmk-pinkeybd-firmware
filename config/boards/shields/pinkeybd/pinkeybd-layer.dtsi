@@ -1,0 +1,7 @@
+#define DEFAULT_L 0
+#define LOWER 1
+#define LOWER2 2
+#define NUM_L 3
+#define FUNC_L 4
+#define MOUSE_L 5
+#define BT_L 6
